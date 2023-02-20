@@ -2,6 +2,12 @@
 	"name": "Ulia",
 	"surname": "Solo",
 	"animail": 2,
-	"salary": 1000
+
+{ 
+	"dog name": "Chip",
+	"cat name": "Django"
+}
+	"salary": 1000,
+	"position": "QA Enginier"
 
 }
