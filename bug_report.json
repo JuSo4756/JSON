@@ -8,4 +8,7 @@
   "actual result": "the eye icon is not displayed but it is clickable on the intended place of it is location",
   "attachments": "link",
   "environment": "opera google hrome"
+  "severity": "major",
+  "priority": "high",
+  "qa engineer": "ulia vladimirivna"
 }
